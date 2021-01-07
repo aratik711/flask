@@ -6,7 +6,7 @@ Flask==1.0.2
 idna==2.7
 itsdangerous==1.1.0
 Jinja2>=2.10.1
-lxml==4.2.5
+lxml==4.6.2
 MarkupSafe==1.1.0
 numpy==1.15.4
 packaging==18.0
